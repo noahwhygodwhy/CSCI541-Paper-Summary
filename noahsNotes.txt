@@ -1,1 +1,4 @@
-a
+Abstract
+    What is it trying to make?
+        HList, a list type that can hold (a limited number of different) multiple types of things, which remain "strongly typed"
+
